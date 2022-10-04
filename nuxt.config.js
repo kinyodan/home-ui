@@ -1,4 +1,46 @@
+require('dotenv').config()
+
+// eslint-disable-next-line nuxt/no-cjs-in-config
+const fs = require('fs')
+// eslint-disable-next-line nuxt/no-cjs-in-config
+const path = require('path')
+
+const ENV_DEV = true
+
+// Development Environment
+// let port = 3000
+let host = 'localhost'
+let https = false
+
+// Production Environment
+if (ENV_DEV === false) {
+  // port = 3000 // make sure this port is open on your server you can do that via WHM or talk to you hosting company
+  // eslint-disable-next-line no-unused-vars
+  host = 'wankimani.ac.ke'
+  // eslint-disable-next-line no-unused-vars
+  https = {
+    key: fs.readFileSync(
+      path.resolve(__dirname, './../../ssl/keys/<ssl-key-file-name>.key')
+    ),
+    cert: fs.readFileSync(
+      path.resolve(__dirname, './../../ssl/certs/<ssl-crt-file-name>.crt')
+    ),
+  }
+}
+
 export default {
+  debug: true,
+  ssr: true,
+  target: 'server',
+
+  server: {
+    host: '0.0.0.0',
+    // port,
+    timing: false,
+  },
+  static: {
+    prefix: false,
+  },
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
     title: 'Art Factory HTML CSS Template',
