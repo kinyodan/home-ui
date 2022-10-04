@@ -15,7 +15,7 @@ let https = false
 if (ENV_DEV === false) {
   // port = 3000 // make sure this port is open on your server you can do that via WHM or talk to you hosting company
   // eslint-disable-next-line no-unused-vars
-  host = 'wankimani.ac.ke'
+  host = 'wankimani.com'
   // eslint-disable-next-line no-unused-vars
   https = {
     key: fs.readFileSync(
@@ -42,7 +42,7 @@ export default {
   },
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
-    title: 'Art Factory HTML CSS Template',
+    title: 'Wankimani',
     htmlAttrs: {
       lang: 'en'
     },
