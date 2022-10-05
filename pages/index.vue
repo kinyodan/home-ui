@@ -152,7 +152,7 @@
             <div class="row">
                 <div class="left-text col-lg-5 col-md-12 col-sm-12 mobile-bottom-fix">
                     <div class="left-heading">
-                        <h5> <a href="#about2" class="">
+                        <h5> <a href="#aboutsoma" class="">
                           <img src="https://res.cloudinary.com/selae-learning/image/upload/c_thumb,g_face,h_39,r_14,w_200/v1664904564/wankimani/Indigo_White_Modern_Minimal_Typographic_Business_Brand_Identity_Logo_3_ew2c2h.png"> </a></br>Curabitur aliquam eget tellus id porta</h5>
                     </div>
                     <p>Proin justo sapien, posuere suscipit tortor in, fermentum mattis elit. Aenean in feugiat purus.</p>
