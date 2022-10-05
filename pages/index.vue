@@ -135,6 +135,8 @@
                                 <h6>Sed placerat sollicitudin mauris</h6>
                                 <p>Proin justo sapien, posuere suscipit tortor in, <a rel="nofollow" href="#">contact</a> Proin justo sapien.</p>
                             </div>
+                             <a href="https://dapply-ui.herokuapp.com/sign-in" class="main-button"> Go to Soma link </a>
+
                         </li>
                     </ul>
                 </div>
@@ -177,7 +179,10 @@
                                 <h6>Sed placerat sollicitudin mauris</h6>
                                 <p>Proin justo sapien, posuere suscipit tortor in, <a rel="nofollow" href="#">contact</a> Proin justo sapien.</p>
                             </div>
+                              <a href="https://dapply-ui.herokuapp.com/sign-in" class="main-button"> Go to Wira link </a>
+
                         </li>
+
                     </ul>
                 </div>
                 <div class="right-image col-lg-7 col-md-12 col-sm-12 mobile-bottom-fix-big" data-scroll-reveal="enter right move 30px over 0.6s after 0.4s">
