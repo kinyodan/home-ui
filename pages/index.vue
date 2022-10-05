@@ -113,21 +113,21 @@
                             <img src="./../assets/images/about-icon-01.png" alt="">
                             <div class="text">
                                 <h6>Nulla ultricies risus quis risus</h6>
-                                <p>You can use this website template for commercial or non-commercial purposes.</p>
+                                <p>Proin justo sapien, posuere suscipit tortor in, fermentum mattis elit. Aenean in feugiat purus.</p>
                             </div>
                         </li>
                         <li>
                             <img src="./../assets/images/about-icon-02.png" alt="">
                             <div class="text">
                                 <h6>Donec consequat commodo purus</h6>
-                                <p>You have no right to re-distribute this template as a downloadable ZIP file on any website.</p>
+                                <p>Proin justo sapien, posuere suscipit tortor in, fermentum mattis elit. Aenean in feugiat purus.</p>
                             </div>
                         </li>
                         <li>
                             <img src="./../assets/images/about-icon-03.png" alt="">
                             <div class="text">
                                 <h6>Sed placerat sollicitudin mauris</h6>
-                                <p>If you have any question or comment, please <a rel="nofollow" href="https://templatemo.com/contact">contact</a> us on TemplateMo.</p>
+                                <p>Proin justo sapien, posuere suscipit tortor in, <a rel="nofollow" href="#">contact</a> Proin justo sapien.</p>
                             </div>
                         </li>
                     </ul>
@@ -394,9 +394,9 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-7 col-md-12 col-sm-12">
-                    <p class="copyright">Copyright &copy; 2020 Art Factory Company 
+                    <p class="copyright">Copyright &copy; 2022 wankimani 
                 
-                . Design: <a rel="nofollow" href="https://templatemo.com">TemplateMo</a></p>
+                   ></p>
                 </div>
                 <div class="col-lg-5 col-md-12 col-sm-12">
                     <ul class="social">
