@@ -135,7 +135,7 @@
                                 <h6>Sed placerat sollicitudin mauris</h6>
                                 <p>Proin justo sapien, posuere suscipit tortor in, <a rel="nofollow" href="#">contact</a> Proin justo sapien.</p>
                             </div>
-                             <a href="https://dapply-ui.herokuapp.com/sign-in" class="main-button"> Go to Soma link </a>
+                             <a href="https://soma.wankimani.com/sign-in" class="main-button"> Go to Soma link </a>
 
                         </li>
                     </ul>
@@ -179,7 +179,7 @@
                                 <h6>Sed placerat sollicitudin mauris</h6>
                                 <p>Proin justo sapien, posuere suscipit tortor in, <a rel="nofollow" href="#">contact</a> Proin justo sapien.</p>
                             </div>
-                              <a href="https://dapply-ui.herokuapp.com/sign-in" class="main-button"> Go to Wira link </a>
+                              <a href="https://wira.wankimani.com./sign-in" class="main-button"> Go to Wira link </a>
 
                         </li>
 
