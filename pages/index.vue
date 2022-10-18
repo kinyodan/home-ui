@@ -24,14 +24,13 @@
                         <ul class="nav">
                             <li class="scroll-to-section"><a href="#welcome" class="active">Home</a></li>
                             <li class="scroll-to-section"><a href="#about">About</a></li>
-                            <li class="scroll-to-section"><a href="#services">Services</a></li>
+                            <!-- <li class="scroll-to-section"><a href="#services">Services</a></li> -->
                             <li class="scroll-to-section"><a href="#frequently-question">Frequently Questions</a></li>
                             <li class="submenu">
-                                <a href="javascript:;">Drop Down</a>
+                                <a href="javascript:;">Services</a>
                                 <ul>
-                                    <li><a href="">About Us</a></li>
-                                    <li><a href="">Features</a></li>
-                                    <li><a href="">FAQ's</a></li>
+                                    <li><a href="#somalink">Soma Link</a></li>
+                                    <li><a href="#wiralink">Wira LInk</a></li>
                                 </ul>
                             </li>
                             <li class="scroll-to-section"><a href="#contact-us">Contact Us</a></li>
@@ -56,9 +55,20 @@
             <div class="container">
                 <div class="row">
                     <div class="left-text col-lg-6 col-md-6 col-sm-12 col-xs-12" data-scroll-reveal="enter left move 30px over 0.6s after 0.4s">
-                        <h1>Wankimani is here <strong>for YOU</strong></h1>
-                        <p>TVivamus sodales nisi id ante. Vivamus sodales nisi id anted. TVivamus sodales nisi id ante. Vivamus sodales nisi id anted. </p>
-                        <a href="#about" class="main-button-slider">Find Out More</a>
+                        <!-- <h1><strong> Wankimani </strong> is here for YOU</h1> -->
+                        <p><strong>Hi there! Discover thousands of opportunities with Wankimani;</strong> Your guide on Finding Work and Study Opportunities in the UK.  </p>
+                        <!-- <a href="#about" class="main-button-slider">Find Out More</a> -->
+
+                        <p>With 
+                        <a href="#somalink" >
+                        <img src="https://res.cloudinary.com/selae-learning/image/upload/c_thumb,g_face,r_15,w_200/v1664905155/wankimani/Indigo_White_Modern_Minimal_Typographic_Business_Brand_Identity_Logo_2_xnofnz.png"> 
+                        </a> and 
+                        
+                        <a href="#wiralink">
+                          <img src="https://res.cloudinary.com/selae-learning/image/upload/c_thumb,g_face,h_39,r_14,w_200/v1664904564/wankimani/Indigo_White_Modern_Minimal_Typographic_Business_Brand_Identity_Logo_3_ew2c2h.png"> 
+                        </a>
+                        </p>
+
                     </div>
                     <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12" data-scroll-reveal="enter right move 30px over 0.6s after 0.4s">
                         <img src="./../assets/images/slider-icon.png" class="rounded img-fluid d-block mx-auto" alt="First Vector Graphic">
@@ -80,16 +90,19 @@
                 </div>
                 <div class="right-text col-lg-5 col-md-12 col-sm-12 mobile-top-fix">
                     <div class="left-heading">
-                        <h5>Vivamus sodales nisi id ante molestie venenatis</h5>
+                        <h5>What we do and what we offer</h5>
                     </div>
                     <div class="left-text">
-                        <p>This template is <a href="#">last updated on 20 August 2019 </a>for main menu drop-down arrow and sub menu text color. Duis auctor dolor eu scelerisque vestibulum. Vestibulum lacinia, nisl sit amet tristique condimentum. <br><br>
-                        Sed a consequat velit. Morbi lectus sapien, vestibulum et sapien sit amet, ultrices malesuada odio. Donec non quam euismod, mattis dui a, ultrices nisi.</p>
-                        <a href="#about2" class="">
+                        <p>The United Kingdom offers a diverse and enriching experience for individuals looking to study or work in the UK. The high quality education system, amazing networking opportunities and impressive work-life balance culture are just but a few benefits of moving to the UK.
+                          <hr></p>
+                          <p>
+                          Wankimani is here to guide you on all the information and resources needed for your study abroad, international career opportunities, and flight plans. Through us, thousands of applicants have been able to make better and more informed decisions on their future. Our team consists of professional, responsive and effective staff who are willing to go above and beyond for you.</p>
+
+<!--                         <a href="#about2" class="">
                           <img src="https://res.cloudinary.com/selae-learning/image/upload/c_thumb,g_face,r_15,w_200/v1664905155/wankimani/Indigo_White_Modern_Minimal_Typographic_Business_Brand_Identity_Logo_2_xnofnz.png"> </a>
                           &nbsp;&nbsp;
                         <a href="#aboutsoma" class="">
-                          <img src="https://res.cloudinary.com/selae-learning/image/upload/c_thumb,g_face,h_39,r_14,w_200/v1664904564/wankimani/Indigo_White_Modern_Minimal_Typographic_Business_Brand_Identity_Logo_3_ew2c2h.png"> </a>
+                          <img src="https://res.cloudinary.com/selae-learning/image/upload/c_thumb,g_face,h_39,r_14,w_200/v1664904564/wankimani/Indigo_White_Modern_Minimal_Typographic_Business_Brand_Identity_Logo_3_ew2c2h.png"> </a> -->
 
                     </div>
                 </div>
@@ -105,42 +118,51 @@
 
 
     <!-- ***** Features Big Item Start ***** -->
-    <section class="section" id="about2">
+    <section class="section" id="somalink">
         <div class="container">
             <div class="row">
                 <div class="left-text col-lg-5 col-md-12 col-sm-12 mobile-bottom-fix">
                     <div class="left-heading">
                         <h5> <a href="#about2" class="">
-                          <img src="https://res.cloudinary.com/selae-learning/image/upload/c_thumb,g_face,r_15,w_200/v1664905155/wankimani/Indigo_White_Modern_Minimal_Typographic_Business_Brand_Identity_Logo_2_xnofnz.png"> </a></br>Curabitur aliquam eget tellus id porta</h5>
+                          <img src="https://res.cloudinary.com/selae-learning/image/upload/c_thumb,g_face,r_15,w_200/v1664905155/wankimani/Indigo_White_Modern_Minimal_Typographic_Business_Brand_Identity_Logo_2_xnofnz.png"> </a></br></h5>
                     </div>
-                    <p>Proin justo sapien, posuere suscipit tortor in, fermentum mattis elit. Aenean in feugiat purus.</p>
+                      <p>
+                      Get the latest on top student schools in UK, tuition fees, admissions requirements and more.</br><hr>
+                      </p>
+
+                      <p> Applying to UK schools as a foreigner can be a tedious and unsuccessful task. We at Wankimani are experienced and very knowledgeable about the application process in the United Kingdom. Once you share your study expectations, we will help in choosing the right place for you. We can also recommend a location and a course that you will enjoy.</br><hr></p>
+
+                     <p> The most important task however is the application process.  From sourcing for the right University documents to filling them accordingly, Wankimani is here to esure that the evaluation process by your choice of school is made much simpler.</p>
                     <ul>
                         <li>
-                            <img src="./../assets/images/about-icon-01.png" alt="">
                             <div class="text">
-                                <h6>Nulla ultricies risus quis risus</h6>
-                                <p>Proin justo sapien, posuere suscipit tortor in, fermentum mattis elit. Aenean in feugiat purus.</p>
+                                 <h6><strong>Wankimani will guide you on:</strong></h6>
                             </div>
                         </li>
                         <li>
                             <img src="./../assets/images/about-icon-02.png" alt="">
                             <div class="text">
-                                <h6>Donec consequat commodo purus</h6>
-                                <p>Proin justo sapien, posuere suscipit tortor in, fermentum mattis elit. Aenean in feugiat purus.</p>
+                                <p>Your transport and accommodation arrangements.</p>
                             </div>
                         </li>
                         <li>
-                            <img src="./../assets/images/about-icon-03.png" alt="">
+                            <img src="./../assets/images/about-icon-02.png" alt="">
                             <div class="text">
-                                <h6>Sed placerat sollicitudin mauris</h6>
-                                <p>Proin justo sapien, posuere suscipit tortor in, <a rel="nofollow" href="#">contact</a> Proin justo sapien.</p>
+                                <p>Visa application process and interview preparation.</p>
                             </div>
-                             <a href="https://soma.wankimani.com/sign-in" class="main-button"> Go to Soma link </a>
+                        </li>
+                        <li>
+                          <img src="./../assets/images/about-icon-02.png" alt="">
+                            <!-- <img src="./../assets/images/about-icon-03.png" alt=""> -->
+                            <div class="text">
+                                <p>Land an offer letter from your dream school.</p>
+                            </div>
+                             <a href="https://soma.wankimani.com" class="main-button itm-float-right"> Go to Soma link </a>
 
                         </li>
                     </ul>
                 </div>
-                <div class="right-image col-lg-7 col-md-12 col-sm-12 mobile-bottom-fix-big" data-scroll-reveal="enter right move 30px over 0.6s after 0.4s">
+                <div class="right-image col-lg-7 col-md-12 col-sm-12 mobile-bottom-fix-big " data-scroll-reveal="enter right move 30px over 0.6s after 0.4s">
                     <img src="./../assets/images/right-image.png" class="rounded img-fluid d-block mx-auto" alt="App">
                 </div>
             </div>
@@ -149,52 +171,52 @@
     <!-- ***** Features Big Item End ***** -->
 
     <!-- ***** Features Big Item Start ***** -->
-    <section class="section" id="aboutsoma">
+    <section class="section" id="wiralink">
         <div class="container">
             <div class="row">
                 <div class="left-text col-lg-5 col-md-12 col-sm-12 mobile-bottom-fix">
                     <div class="left-heading">
-                        <h5> <a href="#aboutsoma" class="">
-                          <img src="https://res.cloudinary.com/selae-learning/image/upload/c_thumb,g_face,h_39,r_14,w_200/v1664904564/wankimani/Indigo_White_Modern_Minimal_Typographic_Business_Brand_Identity_Logo_3_ew2c2h.png"> </a></br>Curabitur aliquam eget tellus id porta</h5>
+                        <h5> <a href="#about2" class="">
+                          <img src="https://res.cloudinary.com/selae-learning/image/upload/c_thumb,g_face,r_15,w_200/v1664905155/wankimani/Indigo_White_Modern_Minimal_Typographic_Business_Brand_Identity_Logo_2_xnofnz.png"> </a></br></h5>
                     </div>
-                    <p>Proin justo sapien, posuere suscipit tortor in, fermentum mattis elit. Aenean in feugiat purus.</p>
+                      <p>
+                      Get a Job in the UK as a Foreigner.</br><hr>
+                      </p>
+
+                      <p> With Wankimani, you will be able to register your professional details and have your availability and skills matched with employers. You will also receive information materials that can guide you on your job search. Click on the link to explore thousands of jobs from entry level to management roles today.</br></p>
+
                     <ul>
                         <li>
-                            <img src="./../assets/images/about-icon-01.png" alt="">
                             <div class="text">
-                                <h6>Nulla ultricies risus quis risus</h6>
-                                <p>Proin justo sapien, posuere suscipit tortor in, fermentum mattis elit. Aenean in feugiat purus.</p>
+                                 <h6><strong>Wankimani will guide you on:</strong></h6>
                             </div>
                         </li>
                         <li>
                             <img src="./../assets/images/about-icon-02.png" alt="">
                             <div class="text">
-                                <h6>Donec consequat commodo purus</h6>
-                                <p>Proin justo sapien, posuere suscipit tortor in, fermentum mattis elit. Aenean in feugiat purus.</p>
+                                <p>Search among the available vacant positions from a wide range of UK companies.</p>
                             </div>
                         </li>
                         <li>
-                            <img src="./../assets/images/about-icon-03.png" alt="">
+                            <img src="./../assets/images/about-icon-02.png" alt="">
                             <div class="text">
-                                <h6>Sed placerat sollicitudin mauris</h6>
-                                <p>Proin justo sapien, posuere suscipit tortor in, <a rel="nofollow" href="#">contact</a> Proin justo sapien.</p>
+                                <p>Get connected with employers who are currently hiring</p>
                             </div>
-                              <a href="https://wira.wankimani.com./sign-in" class="main-button"> Go to Wira link </a>
-
+                            <a href="https://wira.wankimani.com" class="main-button itm-float-right"> Go to Soma link </a>
                         </li>
 
                     </ul>
                 </div>
-                <div class="right-image col-lg-7 col-md-12 col-sm-12 mobile-bottom-fix-big" data-scroll-reveal="enter right move 30px over 0.6s after 0.4s">
+                <div class="right-image col-lg-7 col-md-12 col-sm-12 mobile-bottom-fix-big " data-scroll-reveal="enter right move 30px over 0.6s after 0.4s">
                     <img src="./../assets/images/right-image.png" class="rounded img-fluid d-block mx-auto" alt="App">
                 </div>
             </div>
         </div>
     </section>
     <!-- ***** Features Big Item End ***** -->
-
+   <hr>
     <!-- ***** Features Small Start ***** -->
-    <section class="section" id="services">
+<!--     <section class="section" id="services">
         <div class="container">
             <div class="row">
                 <div class="owl-carousel owl-theme">
@@ -257,7 +279,7 @@
                 </div>
             </div>
         </div>
-    </section>
+    </section> -->
     <!-- ***** Features Small End ***** -->
 
 
@@ -273,7 +295,7 @@
                 </div>
                 <div class="offset-lg-3 col-lg-6">
                     <div class="section-heading">
-                        <p>Vivamus venenatis eu mi ac mattis. Maecenas ut elementum sapien. Nunc euismod risus ac lobortis congue. Sed erat quam.</p>
+                        <p>What people ask about the most from us, and what frequently most concerns our users.</p>
                     </div>
                 </div>
             </div>
@@ -285,7 +307,7 @@
                     <div class="accordion-text">
                         <p>Curabitur placerat diam in risus lobortis, laoreet porttitor est elementum. Nulla ultricies risus quis risus scelerisque, a aliquam tellus maximus. Cras pretium nulla ac convallis iaculis. Aenean bibendum erat vitae odio sodales, in facilisis tellus volutpat.</p>
                         <p>Sed lobortis pellentesque magna ac congue. Suspendisse quis molestie magna, id eleifend ex. Ut mollis ultricies diam nec dictum. Morbi commodo hendrerit mi vel vulputate. Proin non tincidunt dui. Lorem ipsum dolor sit amet.</p>
-                        <span>Email: <a href="#">email@company.com</a><br></span>
+                        <span>Email: <a href="#">info@wankimani.com</a><br></span>
                         <a href="#contact-us" class="main-button">Contact Us</a>
                     </div>
                 </div>
@@ -293,7 +315,7 @@
                     <div class="accordions is-first-expanded">
                         <article class="accordion">
                             <div class="accordion-head">
-                                <span>First Common Question</span>
+                                <span>Is it possible to find work or study opportunities in the UK? </span>
                                 <span class="icon">
                                     <i class="icon fa fa-chevron-right"></i>
                                 </span>
@@ -308,7 +330,7 @@
                         </article>
                         <article class="accordion">
                             <div class="accordion-head">
-                                <span>Second Question Answer</span>
+                                <span>Are you allowed to work in the United Kingdom?</span>
                                 <span class="icon">
                                     <i class="icon fa fa-chevron-right"></i>
                                 </span>
@@ -323,7 +345,7 @@
                         </article>
                         <article class="accordion">
                             <div class="accordion-head">
-                                <span>Third Answer for you</span>
+                                <span>United Kingdom citizens are free to enter, live, study</span>
                                 <span class="icon">
                                     <i class="icon fa fa-chevron-right"></i>
                                 </span>
@@ -338,7 +360,7 @@
                         </article>
                         <article class="accordion">
                             <div class="accordion-head">
-                                <span>Fourth Question Asked</span>
+                                <span>How can Wankimani help me find work in the UK?</span>
                                 <span class="icon">
                                     <i class="icon fa fa-chevron-right"></i>
                                 </span>
@@ -353,7 +375,7 @@
                         </article>
                         <article class="accordion">
                             <div class="accordion-head">
-                                <span>Fifth Ever Question</span>
+                                <span>Why should you work and study in the UK as an international student?</span>
                                 <span class="icon">
                                     <i class="icon fa fa-chevron-right"></i>
                                 </span>
@@ -368,7 +390,20 @@
                         </article>
                         <article class="accordion">
                             <div class="accordion-head">
-                                <span>Sixth Sense Question</span>
+                                <span>How can Wankimani expedite flights booking  to the UK?</span>
+                                <span class="icon">
+                                    <i class="icon fa fa-chevron-right"></i>
+                                </span>
+                            </div>
+                            <div class="accordion-body">
+                                <div class="content">
+                                    <p>Suspendisse potenti. Ut dapibus leo ut massa vulputate semper. Pellentesque maximus lorem sed elit imperdiet mattis. Duis posuere mauris ut eros rutrum sodales. Aliquam erat volutpat.</p>
+                                </div>
+                            </div>
+                        </article>
+                        <article class="accordion">
+                            <div class="accordion-head">
+                                <span>Can an international student obtain work permit in the United Kingdom?</span>
                                 <span class="icon">
                                     <i class="icon fa fa-chevron-right"></i>
                                 </span>
@@ -446,9 +481,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-7 col-md-12 col-sm-12">
-                    <p class="copyright">Copyright &copy; 2022 wankimani 
-                
-                   ></p>
+                    <p class="copyright">Copyright &copy; 2022 wankimani </p>
                 </div>
                 <div class="col-lg-5 col-md-12 col-sm-12">
                     <ul class="social">

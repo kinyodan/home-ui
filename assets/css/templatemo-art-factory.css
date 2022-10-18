@@ -840,7 +840,7 @@ about
 */
 
 #about {
-  padding: 120px 0px;
+  padding: 30px 0px;
   border-bottom: 1px solid #eee;
 }
 
@@ -899,6 +899,10 @@ about
   font-weight: 500;
   color: #1e1e1e;
   margin-bottom: 20px;
+}
+
+a.main-button.itm-float-right{
+  float: right !important;
 }
 
 /* 

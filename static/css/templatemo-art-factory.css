@@ -252,6 +252,10 @@ a.main-button:hover {
   background-color: #0088e8;
 }
 
+a.main-button.itm-float-right{
+  float: right !important;
+}
+
 button.main-button {
   outline: none;
   border: none;
@@ -859,10 +863,43 @@ about
 }
 
 #about2 {
-  padding: 120px 0px;
+  padding: 30px 0px;
 }
 
 #about2 .right-image {
+  align-self: center;
+}
+
+
+#somalink .right-text {
+  align-self: center;
+}
+
+#somalink .right-text p {
+  margin-bottom: 40px;
+}
+
+#somalink {
+  padding: 30px 0px;
+}
+
+#somalink .right-image {
+  align-self: center;
+}
+
+#wiralink .right-text {
+  align-self: center;
+}
+
+#wiralink .right-text p {
+  margin-bottom: 40px;
+}
+
+#wiralink {
+  padding: 30px 0px;
+}
+
+#wiralink .right-image {
   align-self: center;
 }
 
@@ -894,6 +931,56 @@ about
 }
 
 #about2 ul li .text h6 {
+  padding-top: 12px;
+  font-size: 21px;
+  font-weight: 500;
+  color: #1e1e1e;
+  margin-bottom: 20px;
+}
+
+#somalink p,
+#somalink p {
+  margin-bottom: 30px;
+  font-size: 16px;
+  line-height: 30px;
+  letter-spacing: 0.5px;
+}
+
+#somalink ul li img {
+  display: inline;
+  float: left;
+}
+
+#somalink ul li .text {
+  margin-left: 80px;
+}
+
+#somalink ul li .text h6 {
+  padding-top: 12px;
+  font-size: 21px;
+  font-weight: 500;
+  color: #1e1e1e;
+  margin-bottom: 20px;
+}
+
+#wiralink p,
+#wiralink p {
+  margin-bottom: 30px;
+  font-size: 16px;
+  line-height: 30px;
+  letter-spacing: 0.5px;
+}
+
+#wiralink ul li img {
+  display: inline;
+  float: left;
+}
+
+#wiralink ul li .text {
+  margin-left: 80px;
+}
+
+#wiralink ul li .text h6 {
   padding-top: 12px;
   font-size: 21px;
   font-weight: 500;
