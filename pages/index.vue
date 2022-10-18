@@ -429,13 +429,13 @@
                 <!-- ***** Contact Map Start ***** -->
                 <div class="col-lg-6 col-md-6 col-sm-12">
                     <div id="map">
-                      <!-- How to change your own map point
+<!--                       How to change your own map point
                            1. Go to Google Maps
                            2. Click on your location point
                            3. Click "Share" and choose "Embed map" tab
                            4. Copy only URL and paste it within the src="" field below
                     -->
-                    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1197183.8373802372!2d-1.9415093691103689!3d6.781986417238027!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xfdb96f349e85efd%3A0xb8d1e0b88af1f0f5!2sKumasi+Central+Market!5e0!3m2!1sen!2sth!4v1532967884907" width="100%" height="500px" frameborder="0" style="border:0" allowfullscreen></iframe>
+                    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.8518303744713!2d36.799789015215275!3d-1.2611551359561153!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x182f176b69033ae5%3A0x527c0b54641e212!2sSarit%20Centre%2C%20Karuna%20Rd%2C%20Nairobi!5e0!3m2!1sen!2ske!4v1666059707379!5m2!1sen!2ske" width="100%" height="500px" style="border:0;" allowfullscreen frameborder="0" loading="lazy" referrerpolicy="no-referrer-when-downgrade" ></iframe>
                     </div>
                 </div>
                 <!-- ***** Contact Map End ***** -->
